@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Open HRM Test Suite">
+	<test name="CLMS Login">
+		<classes>
+			<class name="testCases.LoginTestCase" />
+		</classes>
+	</test>
+
+	<test name="Trigger Search">
+		<classes>
+			<class name="testCases.TriggerNavigationTest" />
+		</classes>
+	</test>
+
+	<test name="Trigger Run ">
+		<classes>
+			<class name="testCases.TriggerRunningTestCase" />
+		</classes>
+	</test>
+
+	<!--test name="Trigger history search">
+<classes>
+<class name="testCases.TriggerHistoryTestCase"/>
+</classes>
+</test-->
+
+</suite>

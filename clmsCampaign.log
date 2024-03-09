@@ -1,0 +1,263 @@
+2023-03-28 23:26:17 INFO  commonFuntions:35 - Property file loaded
+ 2023-03-28 23:26:18 INFO  commonFuntions:44 - Chrome browser is selected
+ 2023-03-28 23:26:30 INFO  commonFuntions:48 - Browser launched and Opened the URL :http://10.200.178.22/emagine/admin/login
+ 2023-03-29 22:26:07 INFO  commonFuntions:35 - Property file loaded
+ 2023-03-29 22:26:07 INFO  commonFuntions:44 - Chrome browser is selected
+ 2023-03-29 22:26:19 INFO  commonFuntions:48 - Browser launched and Opened the URL :http://10.200.178.22/emagine/admin/login
+ 2023-03-29 22:50:24 INFO  commonFuntions:35 - Property file loaded
+ 2023-03-29 22:50:24 INFO  commonFuntions:44 - Chrome browser is selected
+ 2023-03-29 22:50:40 INFO  commonFuntions:48 - Browser launched and Opened the URL :http://10.200.178.22/emagine/admin/login
+ 2023-03-29 22:55:51 INFO  commonFuntions:35 - Property file loaded
+ 2023-03-29 22:55:51 INFO  commonFuntions:44 - Chrome browser is selected
+ 2023-03-29 22:56:03 INFO  commonFuntions:48 - Browser launched and Opened the URL :http://10.200.178.22/emagine/admin/login
+ 2023-03-29 22:59:03 INFO  commonFuntions:36 - Property file loaded
+ 2023-03-29 22:59:03 INFO  commonFuntions:45 - Chrome browser is selected
+ 2023-03-29 22:59:16 INFO  commonFuntions:49 - Browser launched and Opened the URL :http://10.200.178.22/emagine/admin/login
+ 2023-03-29 23:19:12 INFO  commonFuntions:36 - Property file loaded
+ 2023-03-29 23:19:12 INFO  commonFuntions:45 - Chrome browser is selected
+ 2023-03-29 23:19:23 INFO  commonFuntions:49 - Browser launched and Opened the URL :http://10.200.178.22/emagine/admin/login
+ 2023-03-29 23:20:49 INFO  commonFuntions:36 - Property file loaded
+ 2023-03-29 23:20:49 INFO  commonFuntions:45 - Chrome browser is selected
+ 2023-03-29 23:21:01 INFO  commonFuntions:49 - Browser launched and Opened the URL :http://10.200.178.22/emagine/admin/login
+ 2023-03-29 23:29:42 INFO  commonFuntions:36 - Property file loaded
+ 2023-03-29 23:29:42 INFO  commonFuntions:45 - Chrome browser is selected
+ 2023-03-29 23:29:57 INFO  commonFuntions:49 - Browser launched and Opened the URL :http://10.200.178.22/emagine/admin/login
+ 2023-03-29 23:29:58 INFO  TriggerNavigationTest:16 - Test Trigger Search is begin
+ 2023-03-29 23:30:31 INFO  TriggerNavigationTest:18 - Configuration manager button is clicked
+ 2023-03-29 23:30:32 INFO  TriggerNavigationTest:20 - Customer Contact button is clicked
+ 2023-03-29 23:30:32 INFO  TriggerNavigationTest:22 - Trigger button is clicked
+ 2023-03-29 23:30:34 INFO  TriggerNavigationTest:26 - Status selection was set to empty
+ 2023-03-29 23:30:34 INFO  TriggerNavigationTest:28 - LAst Run date button was unclicked
+ 2023-03-29 23:30:36 INFO  TriggerNavigationTest:30 - Search Button is clicked
+ 2023-03-29 23:30:36 INFO  TriggerRunningTestCase:17 - First Row been selected
+ 2023-03-29 23:30:36 INFO  TriggerRunningTestCase:19 - Modify button clicked
+ 2023-03-29 23:30:39 INFO  TriggerRunningTestCase:21 - PArticipation list been cleared
+ 2023-03-29 23:30:39 INFO  TriggerRunningTestCase:23 - MSISDN has been added into the Participation list
+ 2023-03-29 23:30:39 INFO  TriggerRunningTestCase:25 - Next Run Date button is clicked
+ 2023-03-29 23:30:40 INFO  TriggerRunningTestCase:27 - Submit button clicked
+ 2023-03-29 23:30:40 INFO  TriggerRunningTestCase:35 - Trigger run test case executed successfully
+ 2023-03-30 10:01:52 INFO  commonFuntions:36 - Property file loaded
+ 2023-03-30 10:01:52 INFO  commonFuntions:45 - Chrome browser is selected
+ 2023-03-30 10:01:59 INFO  commonFuntions:49 - Browser launched and Opened the URL :http://10.200.178.22/emagine/admin/login
+ 2023-03-30 10:02:00 INFO  TriggerNavigationTest:16 - Test Trigger Search is begin
+ 2023-03-30 10:02:10 INFO  TriggerNavigationTest:18 - Configuration manager button is clicked
+ 2023-03-30 10:02:10 INFO  TriggerNavigationTest:20 - Customer Contact button is clicked
+ 2023-03-30 10:02:10 INFO  TriggerNavigationTest:22 - Trigger button is clicked
+ 2023-03-30 10:02:11 INFO  TriggerNavigationTest:26 - Status selection was set to empty
+ 2023-03-30 10:02:11 INFO  TriggerNavigationTest:28 - LAst Run date button was unclicked
+ 2023-03-30 10:02:12 INFO  TriggerNavigationTest:30 - Search Button is clicked
+ 2023-03-30 10:02:12 INFO  TriggerRunningTestCase:17 - First Row been selected
+ 2023-03-30 10:02:12 INFO  TriggerRunningTestCase:19 - Modify button clicked
+ 2023-03-30 10:02:13 INFO  TriggerRunningTestCase:21 - PArticipation list been cleared
+ 2023-03-30 10:02:13 INFO  TriggerRunningTestCase:23 - MSISDN has been added into the Participation list
+ 2023-03-30 10:02:13 INFO  TriggerRunningTestCase:25 - Next Run Date button is clicked
+ 2023-03-30 10:02:14 INFO  TriggerRunningTestCase:27 - Submit button clicked
+ 2023-03-30 10:02:14 INFO  TriggerRunningTestCase:35 - Trigger run test case executed successfully
+ 2023-03-30 12:13:32 INFO  commonFuntions:36 - Property file loaded
+ 2023-03-30 12:13:32 INFO  commonFuntions:45 - Chrome browser is selected
+ 2023-03-30 12:13:45 INFO  commonFuntions:49 - Browser launched and Opened the URL :http://10.200.178.22/emagine/admin/login
+ 2023-03-30 12:13:46 INFO  TriggerNavigationTest:16 - Test Trigger Search is begin
+ 2023-03-30 12:13:58 INFO  TriggerNavigationTest:18 - Configuration manager button is clicked
+ 2023-03-30 12:13:58 INFO  TriggerNavigationTest:20 - Customer Contact button is clicked
+ 2023-03-30 12:13:58 INFO  TriggerNavigationTest:22 - Trigger button is clicked
+ 2023-03-30 12:14:00 INFO  TriggerNavigationTest:26 - Status selection was set to empty
+ 2023-03-30 12:14:00 INFO  TriggerNavigationTest:28 - LAst Run date button was unclicked
+ 2023-03-30 12:14:00 INFO  TriggerNavigationTest:30 - Search Button is clicked
+ 2023-03-30 12:14:00 INFO  TriggerRunningTestCase:17 - First Row been selected
+ 2023-03-30 12:14:01 INFO  TriggerRunningTestCase:19 - Modify button clicked
+ 2023-03-30 12:14:02 INFO  TriggerRunningTestCase:21 - PArticipation list been cleared
+ 2023-03-30 12:14:02 INFO  TriggerRunningTestCase:23 - MSISDN has been added into the Participation list
+ 2023-03-30 12:14:02 INFO  TriggerRunningTestCase:25 - Next Run Date button is clicked
+ 2023-03-30 12:14:03 INFO  TriggerRunningTestCase:27 - Submit button clicked
+ 2023-03-30 12:14:03 INFO  TriggerRunningTestCase:35 - Trigger run test case executed successfully
+ 2023-03-30 12:41:26 INFO  commonFuntions:36 - Property file loaded
+ 2023-03-30 12:41:26 INFO  commonFuntions:45 - Chrome browser is selected
+ 2023-03-30 12:41:39 INFO  commonFuntions:49 - Browser launched and Opened the URL :http://10.200.178.22/emagine/admin/login
+ 2023-03-30 12:41:40 INFO  TriggerNavigationTest:16 - Test Trigger Search is begin
+ 2023-03-30 12:41:51 INFO  TriggerNavigationTest:18 - Configuration manager button is clicked
+ 2023-03-30 12:41:51 INFO  TriggerNavigationTest:20 - Customer Contact button is clicked
+ 2023-03-30 12:41:51 INFO  TriggerNavigationTest:22 - Trigger button is clicked
+ 2023-03-30 12:41:53 INFO  TriggerNavigationTest:26 - Status selection was set to empty
+ 2023-03-30 12:41:53 INFO  TriggerNavigationTest:28 - LAst Run date button was unclicked
+ 2023-03-30 12:41:53 INFO  TriggerNavigationTest:30 - Search Button is clicked
+ 2023-03-30 12:41:54 INFO  TriggerRunningTestCase:17 - First Row been selected
+ 2023-03-30 12:41:54 INFO  TriggerRunningTestCase:19 - Modify button clicked
+ 2023-03-30 12:41:55 INFO  TriggerRunningTestCase:21 - PArticipation list been cleared
+ 2023-03-30 12:41:55 INFO  TriggerRunningTestCase:23 - MSISDN has been added into the Participation list
+ 2023-03-30 12:41:55 INFO  TriggerRunningTestCase:25 - Next Run Date button is clicked
+ 2023-03-30 12:41:56 INFO  TriggerRunningTestCase:27 - Submit button clicked
+ 2023-03-30 12:41:56 INFO  TriggerRunningTestCase:35 - Trigger run test case executed successfully
+ 2023-03-30 12:41:56 INFO  TriggerHistoryTestCase:16 - Trigger History test scenario is executing
+ 2023-03-30 12:41:57 INFO  TriggerHistoryTestCase:18 - Operations Manager Button clicked
+ 2023-03-30 12:41:57 INFO  TriggerHistoryTestCase:20 - Application button is clicked
+ 2023-03-30 12:44:45 INFO  commonFuntions:36 - Property file loaded
+ 2023-03-30 12:44:45 INFO  commonFuntions:45 - Chrome browser is selected
+ 2023-03-30 12:44:56 INFO  commonFuntions:49 - Browser launched and Opened the URL :http://10.200.178.22/emagine/admin/login
+ 2023-03-30 12:44:57 INFO  TriggerNavigationTest:16 - Test Trigger Search is begin
+ 2023-03-30 12:45:12 INFO  TriggerNavigationTest:18 - Configuration manager button is clicked
+ 2023-03-30 12:45:12 INFO  TriggerNavigationTest:20 - Customer Contact button is clicked
+ 2023-03-30 12:45:12 INFO  TriggerNavigationTest:22 - Trigger button is clicked
+ 2023-03-30 12:45:14 INFO  TriggerNavigationTest:26 - Status selection was set to empty
+ 2023-03-30 12:45:14 INFO  TriggerNavigationTest:28 - LAst Run date button was unclicked
+ 2023-03-30 12:45:14 INFO  TriggerNavigationTest:30 - Search Button is clicked
+ 2023-03-30 12:45:15 INFO  TriggerRunningTestCase:17 - First Row been selected
+ 2023-03-30 12:45:15 INFO  TriggerRunningTestCase:19 - Modify button clicked
+ 2023-03-30 12:45:16 INFO  TriggerRunningTestCase:21 - PArticipation list been cleared
+ 2023-03-30 12:45:16 INFO  TriggerRunningTestCase:23 - MSISDN has been added into the Participation list
+ 2023-03-30 12:45:16 INFO  TriggerRunningTestCase:25 - Next Run Date button is clicked
+ 2023-03-30 12:45:18 INFO  TriggerRunningTestCase:27 - Submit button clicked
+ 2023-03-30 12:45:18 INFO  TriggerRunningTestCase:35 - Trigger run test case executed successfully
+ 2023-03-30 12:45:18 INFO  TriggerHistoryTestCase:16 - Trigger History test scenario is executing
+ 2023-03-30 12:45:18 INFO  TriggerHistoryTestCase:18 - Operations Manager Button clicked
+ 2023-03-30 12:45:18 INFO  TriggerHistoryTestCase:20 - Application button is clicked
+ 2023-03-30 12:48:32 INFO  commonFuntions:36 - Property file loaded
+ 2023-03-30 12:48:32 INFO  commonFuntions:45 - Chrome browser is selected
+ 2023-03-30 12:48:44 INFO  commonFuntions:49 - Browser launched and Opened the URL :http://10.200.178.22/emagine/admin/login
+ 2023-03-30 12:48:45 INFO  TriggerNavigationTest:16 - Test Trigger Search is begin
+ 2023-03-30 12:48:56 INFO  TriggerNavigationTest:18 - Configuration manager button is clicked
+ 2023-03-30 12:48:57 INFO  TriggerNavigationTest:20 - Customer Contact button is clicked
+ 2023-03-30 12:48:57 INFO  TriggerNavigationTest:22 - Trigger button is clicked
+ 2023-03-30 12:48:58 INFO  TriggerNavigationTest:26 - Status selection was set to empty
+ 2023-03-30 12:48:59 INFO  TriggerNavigationTest:28 - LAst Run date button was unclicked
+ 2023-03-30 12:48:59 INFO  TriggerNavigationTest:30 - Search Button is clicked
+ 2023-03-30 12:48:59 INFO  TriggerRunningTestCase:17 - First Row been selected
+ 2023-03-30 12:49:00 INFO  TriggerRunningTestCase:19 - Modify button clicked
+ 2023-03-30 12:49:01 INFO  TriggerRunningTestCase:21 - PArticipation list been cleared
+ 2023-03-30 12:49:01 INFO  TriggerRunningTestCase:23 - MSISDN has been added into the Participation list
+ 2023-03-30 12:49:01 INFO  TriggerRunningTestCase:25 - Next Run Date button is clicked
+ 2023-03-30 12:49:02 INFO  TriggerRunningTestCase:27 - Submit button clicked
+ 2023-03-30 12:49:02 INFO  TriggerRunningTestCase:35 - Trigger run test case executed successfully
+ 2023-03-30 12:49:02 INFO  TriggerHistoryTestCase:16 - Trigger History test scenario is executing
+ 2023-03-30 12:49:03 INFO  TriggerHistoryTestCase:18 - Operations Manager Button clicked
+ 2023-03-30 12:49:41 INFO  commonFuntions:36 - Property file loaded
+ 2023-03-30 12:49:41 INFO  commonFuntions:45 - Chrome browser is selected
+ 2023-03-30 12:49:53 INFO  commonFuntions:49 - Browser launched and Opened the URL :http://10.200.178.22/emagine/admin/login
+ 2023-03-30 12:49:54 INFO  TriggerNavigationTest:16 - Test Trigger Search is begin
+ 2023-03-30 12:50:05 INFO  TriggerNavigationTest:18 - Configuration manager button is clicked
+ 2023-03-30 12:50:05 INFO  TriggerNavigationTest:20 - Customer Contact button is clicked
+ 2023-03-30 12:50:05 INFO  TriggerNavigationTest:22 - Trigger button is clicked
+ 2023-03-30 12:50:07 INFO  TriggerNavigationTest:26 - Status selection was set to empty
+ 2023-03-30 12:50:07 INFO  TriggerNavigationTest:28 - LAst Run date button was unclicked
+ 2023-03-30 12:50:07 INFO  TriggerNavigationTest:30 - Search Button is clicked
+ 2023-03-30 12:50:07 INFO  TriggerRunningTestCase:17 - First Row been selected
+ 2023-03-30 12:50:08 INFO  TriggerRunningTestCase:19 - Modify button clicked
+ 2023-03-30 12:50:09 INFO  TriggerRunningTestCase:21 - PArticipation list been cleared
+ 2023-03-30 12:50:09 INFO  TriggerRunningTestCase:23 - MSISDN has been added into the Participation list
+ 2023-03-30 12:50:09 INFO  TriggerRunningTestCase:25 - Next Run Date button is clicked
+ 2023-03-30 12:50:10 INFO  TriggerRunningTestCase:27 - Submit button clicked
+ 2023-03-30 12:50:10 INFO  TriggerRunningTestCase:35 - Trigger run test case executed successfully
+ 2023-03-30 12:50:10 INFO  TriggerHistoryTestCase:16 - Trigger History test scenario is executing
+ 2023-03-30 12:50:10 INFO  TriggerHistoryTestCase:18 - Operations Manager Button clicked
+ 2023-03-30 12:55:48 INFO  commonFuntions:36 - Property file loaded
+ 2023-03-30 12:55:48 INFO  commonFuntions:45 - Chrome browser is selected
+ 2023-03-30 12:56:00 INFO  commonFuntions:49 - Browser launched and Opened the URL :http://10.200.178.22/emagine/admin/login
+ 2023-03-30 12:56:01 INFO  TriggerNavigationTest:16 - Test Trigger Search is begin
+ 2023-03-30 12:56:14 INFO  TriggerNavigationTest:18 - Configuration manager button is clicked
+ 2023-03-30 12:56:14 INFO  TriggerNavigationTest:20 - Customer Contact button is clicked
+ 2023-03-30 12:56:14 INFO  TriggerNavigationTest:22 - Trigger button is clicked
+ 2023-03-30 12:56:16 INFO  TriggerNavigationTest:26 - Status selection was set to empty
+ 2023-03-30 12:56:16 INFO  TriggerNavigationTest:28 - LAst Run date button was unclicked
+ 2023-03-30 12:56:17 INFO  TriggerNavigationTest:30 - Search Button is clicked
+ 2023-03-30 12:56:17 INFO  TriggerRunningTestCase:17 - First Row been selected
+ 2023-03-30 12:56:17 INFO  TriggerRunningTestCase:19 - Modify button clicked
+ 2023-03-30 12:56:18 INFO  TriggerRunningTestCase:21 - PArticipation list been cleared
+ 2023-03-30 12:56:19 INFO  TriggerRunningTestCase:23 - MSISDN has been added into the Participation list
+ 2023-03-30 12:56:19 INFO  TriggerRunningTestCase:25 - Next Run Date button is clicked
+ 2023-03-30 12:56:20 INFO  TriggerRunningTestCase:27 - Submit button clicked
+ 2023-03-30 12:56:20 INFO  TriggerRunningTestCase:35 - Trigger run test case executed successfully
+ 2023-03-30 12:56:20 INFO  TriggerHistoryTestCase:16 - Trigger History test scenario is executing
+ 2023-03-30 12:56:20 INFO  TriggerHistoryTestCase:18 - Operations Manager Button clicked
+ 2023-03-30 12:59:24 INFO  commonFuntions:36 - Property file loaded
+ 2023-03-30 12:59:24 INFO  commonFuntions:45 - Chrome browser is selected
+ 2023-03-30 12:59:35 INFO  commonFuntions:49 - Browser launched and Opened the URL :http://10.200.178.22/emagine/admin/login
+ 2023-03-30 12:59:36 INFO  TriggerNavigationTest:16 - Test Trigger Search is begin
+ 2023-03-30 12:59:48 INFO  TriggerNavigationTest:18 - Configuration manager button is clicked
+ 2023-03-30 12:59:48 INFO  TriggerNavigationTest:20 - Customer Contact button is clicked
+ 2023-03-30 12:59:48 INFO  TriggerNavigationTest:22 - Trigger button is clicked
+ 2023-03-30 12:59:50 INFO  TriggerNavigationTest:26 - Status selection was set to empty
+ 2023-03-30 12:59:50 INFO  TriggerNavigationTest:28 - LAst Run date button was unclicked
+ 2023-03-30 12:59:51 INFO  TriggerNavigationTest:30 - Search Button is clicked
+ 2023-03-30 12:59:51 INFO  TriggerRunningTestCase:17 - First Row been selected
+ 2023-03-30 12:59:51 INFO  TriggerRunningTestCase:19 - Modify button clicked
+ 2023-03-30 12:59:52 INFO  TriggerRunningTestCase:21 - PArticipation list been cleared
+ 2023-03-30 12:59:52 INFO  TriggerRunningTestCase:23 - MSISDN has been added into the Participation list
+ 2023-03-30 12:59:52 INFO  TriggerRunningTestCase:25 - Next Run Date button is clicked
+ 2023-03-30 12:59:54 INFO  TriggerRunningTestCase:27 - Submit button clicked
+ 2023-03-30 12:59:54 INFO  TriggerRunningTestCase:35 - Trigger run test case executed successfully
+ 2023-03-30 12:59:54 INFO  TriggerHistoryTestCase:16 - Trigger History test scenario is executing
+ 2023-03-30 12:59:54 INFO  TriggerHistoryTestCase:18 - Operations Manager Button clicked
+ 2023-03-30 14:49:37 INFO  commonFuntions:36 - Property file loaded
+ 2023-03-30 14:49:37 INFO  commonFuntions:45 - Chrome browser is selected
+ 2023-03-30 14:49:47 INFO  commonFuntions:49 - Browser launched and Opened the URL :http://10.200.178.22/emagine/admin/login
+ 2023-03-30 14:49:48 INFO  TriggerNavigationTest:16 - Test Trigger Search is begin
+ 2023-03-30 14:50:00 INFO  TriggerNavigationTest:18 - Configuration manager button is clicked
+ 2023-03-30 14:50:00 INFO  TriggerNavigationTest:20 - Customer Contact button is clicked
+ 2023-03-30 14:50:00 INFO  TriggerNavigationTest:22 - Trigger button is clicked
+ 2023-03-30 14:50:02 INFO  TriggerNavigationTest:26 - Status selection was set to empty
+ 2023-03-30 14:50:02 INFO  TriggerNavigationTest:28 - LAst Run date button was unclicked
+ 2023-03-30 14:50:02 INFO  TriggerNavigationTest:30 - Search Button is clicked
+ 2023-03-30 14:50:02 INFO  TriggerRunningTestCase:17 - First Row been selected
+ 2023-03-30 14:50:03 INFO  TriggerRunningTestCase:19 - Modify button clicked
+ 2023-03-30 14:50:04 INFO  TriggerRunningTestCase:21 - PArticipation list been cleared
+ 2023-03-30 14:50:04 INFO  TriggerRunningTestCase:23 - MSISDN has been added into the Participation list
+ 2023-03-30 14:50:04 INFO  TriggerRunningTestCase:25 - Next Run Date button is clicked
+ 2023-03-30 14:50:05 INFO  TriggerRunningTestCase:27 - Submit button clicked
+ 2023-03-30 14:50:05 INFO  TriggerRunningTestCase:35 - Trigger run test case executed successfully
+ 2023-03-30 14:51:39 INFO  commonFuntions:36 - Property file loaded
+ 2023-03-30 14:51:39 INFO  commonFuntions:45 - Chrome browser is selected
+ 2023-03-30 14:51:51 INFO  commonFuntions:49 - Browser launched and Opened the URL :http://10.200.178.22/emagine/admin/login
+ 2023-03-30 14:51:52 INFO  TriggerNavigationTest:16 - Test Trigger Search is begin
+ 2023-03-30 14:52:03 INFO  TriggerNavigationTest:18 - Configuration manager button is clicked
+ 2023-03-30 14:52:03 INFO  TriggerNavigationTest:20 - Customer Contact button is clicked
+ 2023-03-30 14:52:03 INFO  TriggerNavigationTest:22 - Trigger button is clicked
+ 2023-03-30 14:52:05 INFO  TriggerNavigationTest:26 - Status selection was set to empty
+ 2023-03-30 14:52:05 INFO  TriggerNavigationTest:28 - LAst Run date button was unclicked
+ 2023-03-30 14:52:06 INFO  TriggerNavigationTest:30 - Search Button is clicked
+ 2023-03-30 14:52:06 INFO  TriggerRunningTestCase:17 - First Row been selected
+ 2023-03-30 14:52:06 INFO  TriggerRunningTestCase:19 - Modify button clicked
+ 2023-03-30 14:52:07 INFO  TriggerRunningTestCase:21 - PArticipation list been cleared
+ 2023-03-30 14:52:07 INFO  TriggerRunningTestCase:23 - MSISDN has been added into the Participation list
+ 2023-03-30 14:52:07 INFO  TriggerRunningTestCase:25 - Next Run Date button is clicked
+ 2023-03-30 14:52:09 INFO  TriggerRunningTestCase:27 - Submit button clicked
+ 2023-03-30 14:52:09 INFO  TriggerRunningTestCase:35 - Trigger run test case executed successfully
+ 2023-03-30 14:53:26 INFO  commonFuntions:36 - Property file loaded
+ 2023-03-30 14:53:26 INFO  commonFuntions:45 - Chrome browser is selected
+ 2023-03-30 14:53:40 INFO  commonFuntions:49 - Browser launched and Opened the URL :http://10.200.178.22/emagine/admin/login
+ 2023-03-30 14:53:41 INFO  TriggerNavigationTest:16 - Test Trigger Search is begin
+ 2023-03-30 14:53:54 INFO  TriggerNavigationTest:18 - Configuration manager button is clicked
+ 2023-03-30 14:53:54 INFO  TriggerNavigationTest:20 - Customer Contact button is clicked
+ 2023-03-30 14:53:54 INFO  TriggerNavigationTest:22 - Trigger button is clicked
+ 2023-03-30 14:53:56 INFO  TriggerNavigationTest:26 - Status selection was set to empty
+ 2023-03-30 14:53:56 INFO  TriggerNavigationTest:28 - LAst Run date button was unclicked
+ 2023-03-30 14:53:57 INFO  TriggerNavigationTest:30 - Search Button is clicked
+ 2023-03-30 14:53:57 INFO  TriggerRunningTestCase:17 - First Row been selected
+ 2023-03-30 14:53:57 INFO  TriggerRunningTestCase:19 - Modify button clicked
+ 2023-03-30 14:53:58 INFO  TriggerRunningTestCase:21 - PArticipation list been cleared
+ 2023-03-30 14:53:58 INFO  TriggerRunningTestCase:23 - MSISDN has been added into the Participation list
+ 2023-03-30 14:53:58 INFO  TriggerRunningTestCase:25 - Next Run Date button is clicked
+ 2023-03-30 14:53:59 INFO  TriggerRunningTestCase:27 - Submit button clicked
+ 2023-03-30 14:53:59 INFO  TriggerRunningTestCase:35 - Trigger run test case executed successfully
+ 2023-03-30 15:18:08 INFO  commonFuntions:36 - Property file loaded
+ 2023-03-30 15:18:08 INFO  commonFuntions:45 - Chrome browser is selected
+ 2023-03-30 15:18:21 INFO  commonFuntions:49 - Browser launched and Opened the URL :http://10.200.178.22/emagine/admin/login
+ 2023-03-30 15:18:21 INFO  TriggerNavigationTest:16 - Test Trigger Search is begin
+ 2023-03-30 15:18:35 INFO  TriggerNavigationTest:18 - Configuration manager button is clicked
+ 2023-03-30 15:18:35 INFO  TriggerNavigationTest:20 - Customer Contact button is clicked
+ 2023-03-30 15:18:35 INFO  TriggerNavigationTest:22 - Trigger button is clicked
+ 2023-03-30 15:18:37 INFO  TriggerNavigationTest:26 - Status selection was set to empty
+ 2023-03-30 15:18:37 INFO  TriggerNavigationTest:28 - LAst Run date button was unclicked
+ 2023-03-30 15:18:38 INFO  TriggerNavigationTest:30 - Search Button is clicked
+ 2023-03-30 15:18:38 INFO  TriggerRunningTestCase:17 - First Row been selected
+ 2023-03-30 15:18:38 INFO  TriggerRunningTestCase:19 - Modify button clicked
+ 2023-03-30 15:18:39 INFO  TriggerRunningTestCase:21 - PArticipation list been cleared
+ 2023-03-30 15:18:40 INFO  TriggerRunningTestCase:23 - MSISDN has been added into the Participation list
+ 2023-03-30 15:18:40 INFO  TriggerRunningTestCase:25 - Next Run Date button is clicked
+ 2023-03-30 15:18:41 INFO  TriggerRunningTestCase:27 - Submit button clicked
+ 2023-03-30 15:18:41 INFO  TriggerRunningTestCase:35 - Trigger run test case executed successfully
+ 2023-04-10 16:20:57 INFO  commonFuntions:36 - Property file loaded
+ 2023-04-10 16:20:57 INFO  commonFuntions:45 - Chrome browser is selected
+ 2023-04-10 16:26:17 INFO  commonFuntions:37 - Property file loaded
+ 2023-04-10 16:26:17 INFO  commonFuntions:46 - Chrome browser is selected
+ 2023-04-11 21:08:46 INFO  commonFuntions:37 - Property file loaded
+ 2023-04-11 21:08:46 INFO  commonFuntions:46 - Chrome browser is selected
+ 
